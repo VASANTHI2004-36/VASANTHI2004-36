@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+IoT+Undergraduate;Full+Stack+Web+Developer;Cloud+%26+AWS+Explorer;Always+learning+new+things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+IoT+graduate;Full+Stack+Web+Developer;Cloud+%26+AWS+Explorer;Always+learning+new+things&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -92,22 +92,7 @@ vasanthi-arava@github
 
 <hr>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VASANTHI2004-36&show_icons=true&theme=algolia&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VASANTHI2004-36&theme=algolia&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANTHI2004-36&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="40%"/>
-</p>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 ## 📬 Let's Connect!
 
@@ -115,26 +100,8 @@ Feel free to reach out for collaborations or opportunities.
 
 <a href="mailto:vasuprasu06@gmail.com">📧 vasuprasu06@gmail.com</a>  
 <a href="https://linkedin.com/in/vasanthi-arava">💼 linkedin.com/in/vasanthi-arava</a>
-
-    </td>
-    <td width="50%" valign="top">
-
-## 💬 Ask Me Anything
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-_"The best way to predict the future is to build it."_
-
-    </td>
-  </tr>
-</table>
-
 <hr>
 
 Credits: [VASANTHI2004-36](https://github.com/VASANTHI2004-36)  
 Last Edited On: June 2025
   
-<p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
